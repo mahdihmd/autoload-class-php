@@ -1,8 +1,8 @@
 # autoload-class-php
 Calling Class Functions with Autoload in Php
 
-![Autoload](https://cdn1.imggmi.com/uploads/2019/8/5/65463392ac1c172330d85d5319682256-full.png)
 
+![Autoload](https://cdn1.imggmi.com/uploads/2019/8/5/65463392ac1c172330d85d5319682256-full.png)
 
 This is an Sample for automatically calling classes from other php files
 
